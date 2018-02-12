@@ -1,8 +1,9 @@
 #!/usr/bin/env sh
 
 
-./genKey.sh
 ./makeConfig.sh
+./genKey.sh
+
 
 ./startServer.sh
 
