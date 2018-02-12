@@ -1,6 +1,5 @@
-!/usr/bin/env sh
+#!/usr/bin/env sh
 
-cd openvpn-server-docker-master
 
 ./genKey.sh
 ./makeConfig.sh
