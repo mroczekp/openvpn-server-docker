@@ -17,7 +17,7 @@ TODO
 
 
 
-## First run and make of making certs for first user
+## First run and making certs for first user
 
 ```
 TODO
