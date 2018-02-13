@@ -46,7 +46,8 @@ TODO
 
 ## On shoulders 
 
-![OpenVPN logo](https://docs.openvpn.net/wp-content/uploads/OpenVPN-Inc.-Logo.png)
+![OpenVPN logo](https://docs.openvpn.net/wp-content/uploads/OpenVPN-Inc.-Logo.png| width=100)
+![Docker logo](https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png)
 
 
 
