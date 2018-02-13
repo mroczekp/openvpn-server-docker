@@ -6,7 +6,7 @@ Copy and past to terminal this oneliner
 curl https://raw.githubusercontent.com/mroczekp/openvpn-server-docker/master/download.sh | sh 
 ```
 
-These commanad will install Docker, VPN server container adn theirs dependencies.
+These commans will install Docker, VPN server container andn theirs dependencies.
 After perform these operations Your VPN server needs to have own cert. 
 You can generate this one by run command like this:
 
