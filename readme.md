@@ -1,6 +1,6 @@
 ## Install
 
-Copy and past to terminal this oneliner 
+Copy and paste to terminal this one-liner 
 
 ```
 curl https://raw.githubusercontent.com/mroczekp/openvpn-server-docker/master/download.sh | sh 
