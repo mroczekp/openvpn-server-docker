@@ -11,7 +11,7 @@ cd openvpn-server-docker-master
 MY_IP=`curl ifconfig.co`
 sed -i "s/VPN.SERVERNAME.COM/$MY_IP/g" makeConfig.sh
 
-
+./firstRun.sh
 
 
 
