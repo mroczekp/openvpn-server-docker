@@ -1,11 +1,12 @@
 ## Install
 
-run 
+Copy and past to terminal this oneliner 
 
 ```
 curl https://raw.githubusercontent.com/mroczekp/openvpn-server-docker/master/download.sh | sh 
-
 ```
+
+
 
 
 ## First run and make of makeing certs for first user
@@ -29,7 +30,7 @@ openvpn --config CLIENTNAME.ovpn
 ```
 
 
-## Every using
+## Everyday using
 
 ```
 TODO
